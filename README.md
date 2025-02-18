@@ -13,7 +13,7 @@
         <p>Your destination for premium music</p>
     </header>
     
-    <section class="music-catalog">
+<section class="music-catalog">
         <div class="music-item">
             <img src="album1.jpg" alt="Album Cover">
             <h2>Song Title</h2>
@@ -25,7 +25,7 @@
             <a href="https://paypal.com/buy-link" class="buy-button">Buy Now</a>
         </div>
         
-        <div class="music-item">
+ <div class="music-item">
             <img src="album2.jpg" alt="Album Cover">
             <h2>Song Title 2</h2>
             <p>Artist Name</p>
